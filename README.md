@@ -13,13 +13,13 @@ Tracking method:
 2. Pick out two of the specific objects we want to track, in this case person and table.
 3. Set a distance parameter for safe and not safe. Example, if a person approaches a table within certain distance, we could determine that the table has been used and it's in needs of cleaning. Vice versa, if the person is out of the “non safe zone” the table is not used and therefore no need to be clean.
 
-References
+References:
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 https://stackoverflow.com/questions/44674517/yolo-darknet-detecting-only-specific-class-like-person-cat-dog-etc
 https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
 https://www.youtube.com/watch?list=PLrrmP4uhN47Y-hWs7DVfCmLwUACRigYyT&v=NM6lrxy0bxs
 
-Dataset
+Dataset:
 https://cocodataset.org/
 PIROPO Database-Room B(with people leave the table and approaching table)
 Lab_Database- Lab room setting(With student entering their desk and leaving the room)
