@@ -1,6 +1,6 @@
 # ELEC-4555-Computer-Vision-Project
 
-Objective
+Objective:
 The objective of this project is to be able to detect users utilizing desks and tables in public spaces. Due to COVID it is ever more important to keep desks clean and this system would be able to recognize if a table has been used. Examples of its use include in classroom areas, common areas, labs, and auditoriums. The program should be able to detect and track users and recognize if they are using a desk. Users of public spaces will be able to know when a table is clean and ready to use and cleaning staff will be able to clean more efficiently. This will be impactful to the current COVID situation by improving awareness and cleaning process and efficiency.
 What to investigate
 
